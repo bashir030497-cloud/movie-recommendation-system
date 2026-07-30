@@ -1,6 +1,6 @@
 # Large model/data files (regenerate locally instead of pushing to GitHub)
 vectors.pkl
-knn_model.pkl
+Knn_model.pkl
 *.csv
 
 # Python cache

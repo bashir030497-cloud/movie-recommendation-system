@@ -5,7 +5,7 @@ import streamlit as st
 import joblib
 
 # saved files load kiye
-model = joblib.load('knn_model.pkl')
+model = joblib.load('Knn_model.pkl')
 vectors = joblib.load('vectors.pkl')
 tfidf = joblib.load('tfidf.pkl')
 new_df = joblib.load('movies_df.pkl')
