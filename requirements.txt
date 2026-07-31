@@ -4,3 +4,4 @@ joblib
 streamlit
 kagglehub
 numpy
+huggingface_hub
