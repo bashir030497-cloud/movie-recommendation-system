@@ -8,13 +8,13 @@ from huggingface_hub import hf_hub_download
 # ==========================
 
 model_path = hf_hub_download(
-    repo_id="bashirkhan0329/movie_recommendation_system",
+    repo_id="bashirkhan0329/movie_recomendation_system",
     filename="knn_model.pkl",
     repo_type="model"
 )
 
 vectors_path = hf_hub_download(
-    repo_id="bashirkhan0329/movie_recommendation_system",
+    repo_id="bashirkhan0329/movie_recomendation_system",
     filename="vectors.pkl",
     repo_type="model"
 )
