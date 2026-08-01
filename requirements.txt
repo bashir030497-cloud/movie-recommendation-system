@@ -1,7 +1,6 @@
+streamlit
 pandas
+numpy
 scikit-learn
 joblib
-streamlit
-kagglehub
-numpy
 huggingface_hub
